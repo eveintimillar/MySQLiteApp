@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My SQLite App</string>
+
+    <string name="enter_your_name">Ingrese su nombre</string>
+    <string name="save">Guardar</string>
+    <string name="stored_name">Nombre almacenado:</string>
+    <string name="load">Cargar</string>
+    <string name="second">segunda actividad</string>
+    <string name="email"> ingrese su correco electronico</string>
+    <string name="password"> ingrese su contraseña</string>
+    <string name="nombre_de_usuario">Nombre de usuario:</string>
+    <string name="Email">Email:</string>
+</resources>
